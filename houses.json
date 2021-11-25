@@ -1,0 +1,1167 @@
+[
+  {
+    "postal_code": "85041",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -112.134119,
+      "lat": 33.385444
+    },
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "address": "6723 S 35th Dr",
+    "status": "for sale",
+    "price": 365000,
+    "list_date": "2021-11-18T22:27:01Z"
+  },
+  {
+    "postal_code": "85018",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -111.982109,
+      "lat": 33.513039
+    },
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "address": "5156 N 45th Pl",
+    "status": "for sale",
+    "price": 1500000,
+    "list_date": "2021-11-18T22:27:01Z"
+  },
+  {
+    "postal_code": "85022",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -112.043683,
+      "lat": 33.616767
+    },
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "address": "1725 E Winchcomb Dr",
+    "status": "for sale",
+    "price": 848400,
+    "list_date": "2021-11-18T22:27:01Z"
+  },
+  {
+    "postal_code": "85032",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -112.029814,
+      "lat": 33.637391
+    },
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "address": "16602 N 25th St Apt 219",
+    "status": "for sale",
+    "price": 200000,
+    "list_date": "2021-11-18T22:27:01Z"
+  },
+  {
+    "postal_code": "85032",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -112.010305,
+      "lat": 33.647577
+    },
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "address": "17626 N 33rd Pl",
+    "status": "for sale",
+    "price": 340000,
+    "list_date": "2021-11-18T22:16:21Z"
+  },
+  {
+    "postal_code": "85085",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -112.097748,
+      "lat": 33.735235
+    },
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "address": "27608 N 18th Ave",
+    "status": "for sale",
+    "price": 579000,
+    "list_date": "2021-11-18T22:07:43Z"
+  },
+  {
+    "postal_code": "85033",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -112.203614,
+      "lat": 33.489823
+    },
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "address": "3646 N 67th Ave Unit 20",
+    "status": "for sale",
+    "price": 149500,
+    "list_date": "2021-11-18T22:07:43Z"
+  },
+  {
+    "postal_code": "85034",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -112.063311,
+      "lat": 33.449445
+    },
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "address": "101 N 7th St Unit 254",
+    "status": "for sale",
+    "price": 414999,
+    "list_date": "2021-11-18T21:46:20Z"
+  },
+  {
+    "postal_code": "85035",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -112.209578,
+      "lat": 33.470331
+    },
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "address": "1938 N 69th Ln",
+    "status": "for sale",
+    "price": 255000,
+    "list_date": "2021-11-18T21:36:36Z"
+  },
+  {
+    "postal_code": "85306",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -112.156922,
+      "lat": 33.626484
+    },
+    "city": "Glendale",
+    "state_code": "AZ",
+    "address": "4531 W Waltann Ln",
+    "status": "for sale",
+    "price": 550000,
+    "list_date": "2021-11-18T21:27:08Z"
+  },
+  {
+    "postal_code": "85024",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -112.067925,
+      "lat": 33.664817
+    },
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "address": "421 E Wickieup Ln",
+    "status": "for sale",
+    "price": 385000,
+    "list_date": "2021-11-18T21:16:15Z"
+  },
+  {
+    "postal_code": "85021",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -112.076935,
+      "lat": 33.547649
+    },
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "address": "202 W Kaler Dr",
+    "status": "for sale",
+    "price": 1195000,
+    "list_date": "2021-11-18T21:07:20Z"
+  },
+  {
+    "postal_code": "85008",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -112.002288,
+      "lat": 33.47139
+    },
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "address": "2202 N 37th St",
+    "status": "for sale",
+    "price": 360000,
+    "list_date": "2021-11-18T21:07:20Z"
+  },
+  {
+    "postal_code": "85035",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -112.228558,
+      "lat": 33.472292
+    },
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "address": "7845 W Pipestone Pl",
+    "status": "for sale",
+    "price": 355000,
+    "list_date": "2021-11-18T20:57:14Z"
+  },
+  {
+    "postal_code": "85023",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -112.109759,
+      "lat": 33.621351
+    },
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "address": "14839 N 23rd Ave",
+    "status": "for sale",
+    "price": 435000,
+    "list_date": "2021-11-18T20:57:14Z"
+  },
+  {
+    "postal_code": "85032",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -111.982951,
+      "lat": 33.606083
+    },
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "address": "4554 E Paradise Village Pkwy N Unit 229",
+    "status": "for sale",
+    "price": 179900,
+    "list_date": "2021-11-18T20:46:42Z"
+  },
+  {
+    "postal_code": "85008",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -111.964383,
+      "lat": 33.447866
+    },
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "address": "5401 E Van Buren St Unit 3068",
+    "status": "for sale",
+    "price": 225000,
+    "list_date": "2021-11-18T20:36:35Z"
+  },
+  {
+    "postal_code": "85043",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -112.231519,
+      "lat": 33.464963
+    },
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "address": "8022 W Colcord Canyon Rd Lot 1",
+    "status": "for sale",
+    "price": 399900,
+    "list_date": "2021-11-18T20:36:35Z"
+  },
+  {
+    "postal_code": "85015",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -112.110877,
+      "lat": 33.529652
+    },
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "address": "2415 W Citrus Way",
+    "status": "for sale",
+    "price": 355000,
+    "list_date": "2021-11-18T20:27:26Z"
+  },
+  {
+    "postal_code": "85032",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -112.007145,
+      "lat": 33.636099
+    },
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "address": "3449 E Kings Ave",
+    "status": "for sale",
+    "price": 190000,
+    "list_date": "2021-11-18T20:16:06Z"
+  },
+  {
+    "postal_code": "85027",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -112.128502,
+      "lat": 33.672901
+    },
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "address": "3218 W Runion Dr",
+    "status": "for sale",
+    "price": 315000,
+    "list_date": "2021-11-18T20:07:14Z"
+  },
+  {
+    "postal_code": "85339",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -112.198384,
+      "lat": 33.370254
+    },
+    "city": "Laveen",
+    "state_code": "AZ",
+    "address": "6445 W Magdalena Ln",
+    "status": "for sale",
+    "price": 529990,
+    "list_date": "2021-11-18T19:56:36Z"
+  },
+  {
+    "postal_code": "85018",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -111.993702,
+      "lat": 33.498381
+    },
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "address": "4033 E Glenrosa Ave",
+    "status": "for sale",
+    "price": 1995000,
+    "list_date": "2021-11-18T19:56:36Z"
+  },
+  {
+    "postal_code": "85013",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -112.080673,
+      "lat": 33.49876
+    },
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "address": "4330 N 5th Ave Apt 111",
+    "status": "for sale",
+    "price": 215500,
+    "list_date": "2021-11-18T19:46:29Z"
+  },
+  {
+    "postal_code": "85051",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -112.116218,
+      "lat": 33.549508
+    },
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "address": "2638 W Belmont Ave",
+    "status": "for sale",
+    "price": 430000,
+    "list_date": "2021-11-18T19:46:29Z"
+  },
+  {
+    "postal_code": "85032",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -112.005923,
+      "lat": 33.643578
+    },
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "address": "3519 E Monica Ave",
+    "status": "for sale",
+    "price": 450000,
+    "list_date": "2021-11-18T19:27:02Z"
+  },
+  {
+    "postal_code": "85016",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -112.046271,
+      "lat": 33.503183
+    },
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "address": "1622 E Campbell Ave Apt G",
+    "status": "for sale",
+    "price": 214900,
+    "list_date": "2021-11-18T19:17:11Z"
+  },
+  {
+    "postal_code": "85035",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -112.16105,
+      "lat": 33.476104
+    },
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "address": "2532 N 47th Dr",
+    "status": "for sale",
+    "price": 287000,
+    "list_date": "2021-11-18T18:56:18Z"
+  },
+  {
+    "postal_code": "85339",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -112.169679,
+      "lat": 33.351371
+    },
+    "city": "Laveen",
+    "state_code": "AZ",
+    "address": "10423 S 51st Dr",
+    "status": "for sale",
+    "price": 426500,
+    "list_date": "2021-11-18T18:47:24Z"
+  },
+  {
+    "postal_code": "85008",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -111.976326,
+      "lat": 33.469726
+    },
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "address": "2013 N 49th St",
+    "status": "for sale",
+    "price": 975000,
+    "list_date": "2021-11-18T18:36:23Z"
+  },
+  {
+    "postal_code": "85040",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -112.020916,
+      "lat": 33.403055
+    },
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "address": "2801 E Wier Ave Lot 1",
+    "status": "for sale",
+    "price": 170000,
+    "list_date": "2021-11-18T18:36:23Z"
+  },
+  {
+    "postal_code": "85018",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -111.997131,
+      "lat": 33.50425
+    },
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "address": "3923 E Hazelwood St",
+    "status": "for sale",
+    "price": 1275000,
+    "list_date": "2021-11-18T18:29:00Z"
+  },
+  {
+    "postal_code": "85032",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -111.984814,
+      "lat": 33.605979
+    },
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "address": "4444 E Paradise Village Pkwy N Unit 106",
+    "status": "for sale",
+    "price": 205000,
+    "list_date": "2021-11-18T18:29:00Z"
+  },
+  {
+    "postal_code": "85254",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -111.97365,
+      "lat": 33.631099
+    },
+    "city": "Scottsdale",
+    "state_code": "AZ",
+    "address": "15849 N 49th Pl",
+    "status": "for sale",
+    "price": 799000,
+    "list_date": "2021-11-18T18:06:42Z"
+  },
+  {
+    "postal_code": "85254",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -111.960242,
+      "lat": 33.598553
+    },
+    "city": "Scottsdale",
+    "state_code": "AZ",
+    "address": "5601 E Sylvia St",
+    "status": "for sale",
+    "price": 1395000,
+    "list_date": "2021-11-18T17:57:46Z"
+  },
+  {
+    "postal_code": "85044",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -111.982551,
+      "lat": 33.338317
+    },
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "address": "12027 S Paiute St",
+    "status": "for sale",
+    "price": 440000,
+    "list_date": "2021-11-18T17:46:33Z"
+  },
+  {
+    "postal_code": "85017",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -112.133222,
+      "lat": 33.508919
+    },
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "address": "4835 N 34th Dr",
+    "status": "for sale",
+    "price": 342000,
+    "list_date": "2021-11-18T17:46:33Z"
+  },
+  {
+    "postal_code": "85051",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -112.129364,
+      "lat": 33.559669
+    },
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "address": "8420 N 32nd Ave",
+    "status": "for sale",
+    "price": 235000,
+    "list_date": "2021-11-18T17:27:17Z"
+  },
+  {
+    "postal_code": "85015",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -112.105932,
+      "lat": 33.49902
+    },
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "address": "2132 W Glenrosa Ave Unit C80",
+    "status": "for sale",
+    "price": 135000,
+    "list_date": "2021-11-18T17:27:17Z"
+  },
+  {
+    "postal_code": "85018",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -112.008865,
+      "lat": 33.493762
+    },
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "address": "4008 N 34th St",
+    "status": "for sale",
+    "price": 475000,
+    "list_date": "2021-11-18T17:27:17Z"
+  },
+  {
+    "postal_code": "85050",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -111.988524,
+      "lat": 33.698191
+    },
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "address": "3856 E Expedition Way",
+    "status": "for sale",
+    "price": 1650000,
+    "list_date": "2021-11-18T17:16:23Z"
+  },
+  {
+    "postal_code": "85018",
+    "state": "Arizona",
+    "coordinate": {
+      "lon": -112.01057,
+      "lat": 33.486506
+    },
+    "city": "Phoenix",
+    "state_code": "AZ",
+    "address": "3302 E Flower St",
+    "status": "for sale",
+    "price": 949999,
+    "list_date": "2021-11-18T17:16:23Z"
+  },
+
+  {
+    "postal_code": "95864",
+    "state": "California",
+    "coordinate": {
+      "lon": -121.393959,
+      "lat": 38.582519
+    },
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "2900 Sienna Ln",
+    "status": "for sale",
+    "price": 939000,
+    "list_date": "2021-11-05T07:38:23Z"
+  },
+  {
+    "postal_code": "95816",
+    "state": "California",
+    "coordinate": {
+      "lon": -121.457944,
+      "lat": 38.559183
+    },
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "3924 S St",
+    "status": "for sale",
+    "price": 740000,
+    "list_date": "2021-11-05T07:38:23Z"
+  },
+  {
+    "postal_code": "95821",
+    "state": "California",
+    "coordinate": {
+      "lon": -121.362437,
+      "lat": 38.620425
+    },
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "3008 Sandhurst Ct",
+    "status": "for sale",
+    "price": 425000,
+    "list_date": "2021-11-05T07:38:23Z"
+  },
+  {
+    "postal_code": "95818",
+    "state": "California",
+    "coordinate": null,
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "2681 Cleat Ln Unit 39A",
+    "status": "for sale",
+    "price": 445000,
+    "list_date": "2021-11-05T07:38:23Z"
+  },
+  {
+    "postal_code": "95828",
+    "state": "California",
+    "coordinate": {
+      "lon": -121.387284,
+      "lat": 38.487832
+    },
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "7410 Chantilly Ln",
+    "status": "for sale",
+    "price": 325000,
+    "list_date": "2021-11-05T07:38:23Z"
+  },
+  {
+    "postal_code": "95818",
+    "state": "California",
+    "coordinate": {
+      "lon": -121.506079,
+      "lat": 38.568787
+    },
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "2200 5th St",
+    "status": "for sale",
+    "price": 299800,
+    "list_date": "2021-11-05T07:12:04Z"
+  },
+  {
+    "postal_code": "95820",
+    "state": "California",
+    "coordinate": {
+      "lon": -121.447432,
+      "lat": 38.540203
+    },
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "5017 13th Ave",
+    "status": "for sale",
+    "price": 429000,
+    "list_date": "2021-11-05T06:50:54Z"
+  },
+  {
+    "postal_code": "95831",
+    "state": "California",
+    "coordinate": {
+      "lon": -121.543862,
+      "lat": 38.487018
+    },
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "14 Seaside Ct",
+    "status": "for sale",
+    "price": 500000,
+    "list_date": "2021-11-05T06:23:16Z"
+  },
+  {
+    "postal_code": "95828",
+    "state": "California",
+    "coordinate": {
+      "lon": -121.398026,
+      "lat": 38.458828
+    },
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "8317 Stonybeck Cir",
+    "status": "for sale",
+    "price": 544900,
+    "list_date": "2021-11-05T05:38:13Z"
+  },
+  {
+    "postal_code": "95829",
+    "state": "California",
+    "coordinate": {
+      "lon": -121.358879,
+      "lat": 38.453698
+    },
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "9178 Sebastiani Way",
+    "status": "for sale",
+    "price": 399900,
+    "list_date": "2021-11-05T03:59:04Z"
+  },
+  {
+    "postal_code": "95838",
+    "state": "California",
+    "coordinate": {
+      "lon": -121.451394,
+      "lat": 38.655098
+    },
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "625 Main Ave",
+    "status": "for sale",
+    "price": 400000,
+    "list_date": "2021-11-05T03:14:22Z"
+  },
+  {
+    "postal_code": "95838",
+    "state": "California",
+    "coordinate": {
+      "lon": -121.446417,
+      "lat": 38.627497
+    },
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "3319 Rio Linda Blvd",
+    "status": "for sale",
+    "price": 299000,
+    "list_date": "2021-11-05T03:03:02Z"
+  },
+  {
+    "postal_code": "95838",
+    "state": "California",
+    "coordinate": {
+      "lon": -121.469226,
+      "lat": 38.651305
+    },
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "4585 Bollenbacher Ave",
+    "status": "for sale",
+    "price": 399000,
+    "list_date": "2021-11-05T02:47:32Z"
+  },
+  {
+    "postal_code": "95835",
+    "state": "California",
+    "coordinate": null,
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "5301 E Commerce Way Unit 6102",
+    "status": "for sale",
+    "price": 410000,
+    "list_date": "2021-11-05T02:07:05Z"
+  },
+  {
+    "postal_code": "95820",
+    "state": "California",
+    "coordinate": {
+      "lon": -121.419507,
+      "lat": 38.531273
+    },
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "4900 73rd St",
+    "status": "for sale",
+    "price": 379900,
+    "list_date": "2021-11-05T02:07:05Z"
+  },
+  {
+    "postal_code": "95838",
+    "state": "California",
+    "coordinate": {
+      "lon": -121.459993,
+      "lat": 38.644601
+    },
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "316 Yampa Cir",
+    "status": "for sale",
+    "price": 375000,
+    "list_date": "2021-11-05T01:32:27Z"
+  },
+  {
+    "postal_code": "95833",
+    "state": "California",
+    "coordinate": {
+      "lon": -121.532533,
+      "lat": 38.607927
+    },
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "3101 Swallows Nest Dr",
+    "status": "for sale",
+    "price": 380000,
+    "list_date": "2021-11-05T00:51:22Z"
+  },
+  {
+    "postal_code": "95815",
+    "state": "California",
+    "coordinate": {
+      "lon": -121.441075,
+      "lat": 38.612708
+    },
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "1106 Frienza Ave",
+    "status": "for sale",
+    "price": 380000,
+    "list_date": "2021-11-05T00:48:13Z"
+  },
+  {
+    "postal_code": "95826",
+    "state": "California",
+    "coordinate": {
+      "lon": -121.363593,
+      "lat": 38.562524
+    },
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "2733 Payette Dr",
+    "status": "for sale",
+    "price": 485000,
+    "list_date": "2021-11-05T00:02:50Z"
+  },
+  {
+    "postal_code": "95817",
+    "state": "California",
+    "coordinate": {
+      "lon": -121.458252,
+      "lat": 38.552624
+    },
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "2493 41st St",
+    "status": "for sale",
+    "price": 549900,
+    "list_date": "2021-11-04T23:50:31Z"
+  },
+  {
+    "postal_code": "95835",
+    "state": "California",
+    "coordinate": {
+      "lon": -121.526545,
+      "lat": 38.673324
+    },
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "2966 Portage Way",
+    "status": "for sale",
+    "price": 649000,
+    "list_date": "2021-11-04T21:44:38Z"
+  },
+  {
+    "postal_code": "95838",
+    "state": "California",
+    "coordinate": {
+      "lon": -121.433148,
+      "lat": 38.639711
+    },
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "3937 Elm St",
+    "status": "for sale",
+    "price": 329000,
+    "list_date": "2021-11-04T21:23:36Z"
+  },
+  {
+    "postal_code": "95818",
+    "state": "California",
+    "coordinate": null,
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "153 Log Pond Ln",
+    "status": "for sale",
+    "price": 525000,
+    "list_date": "2021-11-04T21:11:38Z"
+  },
+  {
+    "postal_code": "95838",
+    "state": "California",
+    "coordinate": {
+      "lon": -121.42328,
+      "lat": 38.642114
+    },
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "209 Wainwright Ct",
+    "status": "for sale",
+    "price": 100000,
+    "list_date": "2021-11-04T20:57:09Z"
+  },
+  {
+    "postal_code": "95818",
+    "state": "California",
+    "coordinate": {
+      "lon": -121.487812,
+      "lat": 38.558801
+    },
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "1947 1st Ave",
+    "status": "for sale",
+    "price": 399900,
+    "list_date": "2021-11-04T20:11:28Z"
+  },
+  {
+    "postal_code": "95820",
+    "state": "California",
+    "coordinate": {
+      "lon": -121.466811,
+      "lat": 38.535961
+    },
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "3704 18th Ave",
+    "status": "for sale",
+    "price": 425000,
+    "list_date": "2021-11-04T19:53:50Z"
+  },
+  {
+    "postal_code": "95835",
+    "state": "California",
+    "coordinate": {
+      "lon": -121.52742,
+      "lat": 38.678153
+    },
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "2700 Kalamer Way",
+    "status": "for sale",
+    "price": 665000,
+    "list_date": "2021-11-04T19:06:08Z"
+  },
+  {
+    "postal_code": "95822",
+    "state": "California",
+    "coordinate": {
+      "lon": -121.479482,
+      "lat": 38.51973
+    },
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "2525 36th Ave",
+    "status": "for sale",
+    "price": 400000,
+    "list_date": "2021-11-04T19:02:30Z"
+  },
+  {
+    "postal_code": "95828",
+    "state": "California",
+    "coordinate": {
+      "lon": -121.41491,
+      "lat": 38.50053
+    },
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "7608 Tierra Way E",
+    "status": "for sale",
+    "price": 349000,
+    "list_date": "2021-11-04T18:53:01Z"
+  },
+  {
+    "postal_code": "95818",
+    "state": "California",
+    "coordinate": {
+      "lon": -121.490055,
+      "lat": 38.551272
+    },
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "2000 Vallejo Way",
+    "status": "for sale",
+    "price": 720000,
+    "list_date": "2021-11-04T18:44:41Z"
+  },
+  {
+    "postal_code": "95835",
+    "state": "California",
+    "coordinate": {
+      "lon": -121.506368,
+      "lat": 38.675392
+    },
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "200 Bill Bean Cir",
+    "status": "for sale",
+    "price": 530000,
+    "list_date": "2021-11-04T18:02:34Z"
+  },
+  {
+    "postal_code": "95825",
+    "state": "California",
+    "coordinate": {
+      "lon": -121.39078,
+      "lat": 38.60486
+    },
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "2131 Trimble Way",
+    "status": "for sale",
+    "price": 899000,
+    "list_date": "2021-11-04T18:00:02Z"
+  },
+  {
+    "postal_code": "95842",
+    "state": "California",
+    "coordinate": {
+      "lon": -121.360995,
+      "lat": 38.672005
+    },
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "5809 Sturbridge Ct",
+    "status": "for sale",
+    "price": 380000,
+    "list_date": "2021-11-04T18:00:02Z"
+  },
+  {
+    "postal_code": "95835",
+    "state": "California",
+    "coordinate": {
+      "lon": -121.524316,
+      "lat": 38.680128
+    },
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "2845 Macon Dr",
+    "status": "for sale",
+    "price": 764900,
+    "list_date": "2021-11-04T17:56:43Z"
+  },
+  {
+    "postal_code": "95841",
+    "state": "California",
+    "coordinate": {
+      "lon": -121.348919,
+      "lat": 38.669065
+    },
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "5025 Buffwood Way",
+    "status": "for sale",
+    "price": 415000,
+    "list_date": "2021-11-04T17:56:43Z"
+  },
+  {
+    "postal_code": "95822",
+    "state": "California",
+    "coordinate": {
+      "lon": -121.486738,
+      "lat": 38.508925
+    },
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "2256 Arliss Way",
+    "status": "for sale",
+    "price": 375000,
+    "list_date": "2021-11-04T17:42:06Z"
+  },
+  {
+    "postal_code": "95834",
+    "state": "California",
+    "coordinate": {
+      "lon": -121.52919,
+      "lat": 38.634362
+    },
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "3635 Poppy Hill Way",
+    "status": "for sale",
+    "price": 499000,
+    "list_date": "2021-11-04T17:26:34Z"
+  },
+  {
+    "postal_code": "95842",
+    "state": "California",
+    "coordinate": null,
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "4762 Greenholme Dr Apt 3",
+    "status": "for sale",
+    "price": 198000,
+    "list_date": "2021-11-04T17:11:37Z"
+  },
+  {
+    "postal_code": "95823",
+    "state": "California",
+    "coordinate": {
+      "lon": -121.452778,
+      "lat": 38.50789
+    },
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "6520 46th St",
+    "status": "for sale",
+    "price": 429900,
+    "list_date": "2021-11-04T16:56:33Z"
+  },
+  {
+    "postal_code": "95834",
+    "state": "California",
+    "coordinate": {
+      "lon": -121.548854,
+      "lat": 38.653914
+    },
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "4529 Villa Del Paso Ln",
+    "status": "for sale",
+    "price": 539900,
+    "list_date": "2021-11-04T16:48:00Z"
+  },
+  {
+    "postal_code": "95823",
+    "state": "California",
+    "coordinate": {
+      "lon": -121.443986,
+      "lat": 38.459481
+    },
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "310 Bathbridge Ln",
+    "status": "for sale",
+    "price": 439000,
+    "list_date": "2021-11-04T16:35:20Z"
+  },
+  {
+    "postal_code": "95864",
+    "state": "California",
+    "coordinate": {
+      "lon": -121.400742,
+      "lat": 38.581275
+    },
+    "city": "Sacramento",
+    "state_code": "CA",
+    "address": "830 Sierra Oaks Vista Ln",
+    "status": "for sale",
+    "price": 850000,
+    "list_date": "2021-11-04T16:28:03Z"
+  }
+]
